@@ -47,7 +47,7 @@
     "v-calendar": "^1.0.8",
     "v-click-outside": "^3.0.1",
     "vietnamese-js": "^1.0.0",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vue-class-component": "^7.2.3",
     "vue-click-outside": "^1.1.0",
     "vue-clipboard2": "^0.3.1",
